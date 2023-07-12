@@ -1,0 +1,11 @@
+C:\Users\Akgun\source\repos\taxcalculator\taxcalculator\bin\Debug\taxcalculator.exe.config
+C:\Users\Akgun\source\repos\taxcalculator\taxcalculator\bin\Debug\taxcalculator.exe
+C:\Users\Akgun\source\repos\taxcalculator\taxcalculator\bin\Debug\taxcalculator.pdb
+C:\Users\Akgun\source\repos\taxcalculator\taxcalculator\obj\Debug\taxcalculator.csproj.AssemblyReference.cache
+C:\Users\Akgun\source\repos\taxcalculator\taxcalculator\obj\Debug\taxcalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akgun\source\repos\taxcalculator\taxcalculator\obj\Debug\taxcalculator.Form1.resources
+C:\Users\Akgun\source\repos\taxcalculator\taxcalculator\obj\Debug\taxcalculator.Properties.Resources.resources
+C:\Users\Akgun\source\repos\taxcalculator\taxcalculator\obj\Debug\taxcalculator.csproj.GenerateResource.cache
+C:\Users\Akgun\source\repos\taxcalculator\taxcalculator\obj\Debug\taxcalculator.csproj.CoreCompileInputs.cache
+C:\Users\Akgun\source\repos\taxcalculator\taxcalculator\obj\Debug\taxcalculator.exe
+C:\Users\Akgun\source\repos\taxcalculator\taxcalculator\obj\Debug\taxcalculator.pdb
